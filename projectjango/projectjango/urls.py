@@ -29,6 +29,5 @@ urlpatterns = [
     path('qual/', views.qual),
     path('panel/', views.panel),
     path('other/', views.other),
-   
-   
+     
 ]
