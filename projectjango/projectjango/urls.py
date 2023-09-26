@@ -28,6 +28,9 @@ urlpatterns = [
     path('Quan/', views.Quan),
     path('qual/', views.qual),
     path('panel/', views.panel),
-    path('other/', views.other),
-     
+    path('other/', views.other),   
 ]
+
+
+
+
